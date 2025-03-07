@@ -1,7 +1,11 @@
 # Diwali-Sales-Data-Analysis
 
- • Analyzed and cleaned Diwali sales data, addressing missing values and converting data types for accurate analysis.
+ • Analyzed and processed 10000+ sales records, handling missing values and optimizing data types to improve data accuracy.
  
- • Implemented EDA with visualizations using Matplotlib and Seaborn to explore trends across gender, age, and state.
+ •Conducted Exploratory Data Analysis (EDA) using Matplotlib and Seaborn, identifying trends across gender, age groups, and states.
  
- • Analyzed purchase patterns to generate insights into customer behavior across demographics and product categories.
+ •Developed 10+ insightful visualizations, including bar charts and heatmaps, to assess sales performance by product category, state, and occupation, helping identify high-revenue segments.
+ 
+ •Investigated customer purchase behavior, uncovering key insights into seasonal trends, high-value demographics, and product demand, supporting data-driven business strategies.
+ 
+ •Strengthened my proficiency in data wrangling, statistical analysis, and visualization, enhancing my ability to derive actionable insights from raw datasets.
